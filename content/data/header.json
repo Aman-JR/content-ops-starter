@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Contact US",
+            "label": "Contact Us",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
