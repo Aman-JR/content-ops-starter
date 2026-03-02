@@ -29,10 +29,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
