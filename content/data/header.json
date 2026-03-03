@@ -22,15 +22,6 @@
         },
         {
             "label": "Services",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Services",
             "altText": "Dropdown",
             "links": [
                 {
@@ -60,6 +51,15 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Services",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Contact Us",
