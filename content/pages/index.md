@@ -2,32 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-    media:
-      type: ImageBlock
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
